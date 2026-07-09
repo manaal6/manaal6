@@ -1,35 +1,71 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
-
-<h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
-
+<h1 align="center">Hi 👋, I'm Manaal Pervaiz</h1>
+<h3 align="center">Generative AI Engineer · LLM Systems Builder · Embedded Systems Undergrad</h3>
 
 ###
 
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
+<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 
 ###
-- 🔭 I’m currently working on **Backend**
-  
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+- 🔭 I'm currently building **AURA OS** — a multi-agent generative AI system shortlisted for the Google AI Seekho Hackathon
+- 🎙️ Shipping **Priya** — a real-time voice AI agent with sub-200ms latency (WebSocket + Deepgram + Groq)
+- 💼 Freelancing as an AI Automation Engineer — WhatsApp AI bots, LLM email automation, and conversational AI pipelines
+- 🌱 Currently deepening my skills in **Agentic AI workflows, RAG pipelines, and multi-agent orchestration**
+- ⚡ BS Embedded Systems @ University of Lahore (CGPA 3.92/4.0) — pairing firmware/IoT with edge AI
+- 💬 Ask me about **Python, LLMs (Groq/OpenAI), LangChain, Flask/FastAPI, ESP32/IoT, Computer Vision**
+- 📫 Reach me at **manaalpervaiz6@gmail.com**
 
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
-
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhinendrasingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
-<a href="https://instagram.com/_jodxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
-</p> 
+<a href="https://linkedin.com/in/manaalpervaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manaalpervaiz" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
----
+###
 
-## 🐍 Contribution Snake
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
+</p>
+
+**LLM & AI:** Groq · OpenAI · LangChain · RAG Pipelines · Prompt Engineering · Multi-Agent Orchestration · Deepgram STT/TTS · YOLO · OCR
+**Backend:** Python · Node.js · Flask · FastAPI · REST APIs · WebSocket · Streamlit · SQL
+**Cloud & DevOps:** AWS (EC2, S3, Lambda) · Docker · Railway · Linux · CI/CD
+**Embedded/IoT:** ESP32 · ESP32-CAM · Arduino · Raspberry Pi · Firebase · ThingSpeak
+
+###
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **AURA OS** | Multi-agent autonomous AI system with event-driven orchestration and structured-output reasoning — shortlisted for Google AI Seekho Hackathon |
+| **Priya (Voice Agent)** | Full-duplex WebSocket voice AI — Deepgram STT → Groq LLM → TTS, sub-200ms latency |
+| **LLM Email Automation API** | Flask + Groq system automating 50+ daily B2B emails, commercialized on Gumroad, 80% manual workload reduction |
+| **Multilingual WhatsApp AI Backend** | English/Urdu conversational AI over WhatsApp Business API with Deepgram + Groq |
+| **LensIQ AI** | YOLO + OCR + LLM scene summarization computer vision pipeline with Streamlit VQA interface |
+| **Edge AI Surveillance Platform** | ESP32-CAM + Raspberry Pi + OpenCV face recognition with Firebase Realtime DB and mobile alerts |
+
+###
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manaal6&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaal6&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manaal6&theme=radical" alt="streak stats"/>
 </p>
 
 <br clear="both">
