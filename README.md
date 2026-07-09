@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manaal Pervaiz</h1>
 <h3 align="center">Generative AI Engineer · LLM Systems Builder · Embedded Systems Undergrad</h3>
 
-###
-
 <img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
-
-###
 
 - 🔭 I'm currently building **AURA OS** — a multi-agent generative AI system shortlisted for the Google AI Seekho Hackathon
 - 🎙️ Shipping **Priya** — a real-time voice AI agent with sub-200ms latency (WebSocket + Deepgram + Groq)
@@ -60,12 +56,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manaal6&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaal6&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manaal6&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaal6&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manaal6&theme=radical" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=manaal6&theme=radical&hide_border=true" alt="streak stats"/>
 </p>
 
 <br clear="both">
