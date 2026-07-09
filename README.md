@@ -13,7 +13,7 @@
 - 🌱 Currently deepening my skills in **Agentic AI workflows, RAG pipelines, and multi-agent orchestration**
 - ⚡ BS Embedded Systems @ University of Lahore (CGPA 3.92/4.0) — pairing firmware/IoT with edge AI
 - 💬 Ask me about **Python, LLMs (Groq/OpenAI), LangChain, Flask/FastAPI, ESP32/IoT, Computer Vision**
-- 📫 Reach me at **manaalpervaiz6@gmail.com**
+- 📫 Reach me at **manaalpervaiz3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
