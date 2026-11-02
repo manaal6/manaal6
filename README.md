@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80%" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist" width="200" height="200" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Manaal Pervaiz</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=900&lines=AI+Systems+Builder+%7C+Agentic+AI+%2B+LLM+Automation;LLM+Engineer+%40+CloudPilot+UK+%7C+RAG+%2B+MCP+%2B+vLLM;Embedded+Systems+Undergrad+%40+University+of+Lahore+(CGPA+3.93);ESP32+%7C+STM32+%7C+Edge+AI+%7C+Computer+Vision;EEG+%2F+BCI+Research+%40+Afrium;Nationally+Shortlisted+%7C+Google+AI+Seekho+Hackathon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Systems+Builder+%7C+Agentic+AI+%2B+LLM+Automation;LLM+Engineer+%40+CloudPilot+UK+%7C+RAG+%2B+MCP+%2B+vLLM;Embedded+Systems+Undergrad+%40+University+of+Lahore+(CGPA+3.93);ESP32+%7C+STM32+%7C+Edge+AI+%7C+Computer+Vision;EEG+%2F+BCI+Research+%40+Afrium;Nationally+Shortlisted+%7C+Google+AI+Seekho+Hackathon" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -18,29 +18,18 @@
 
 ## 💡 About Me
 
-<table>
-<tr>
-<td width="65%">
+- 🧠 **LLM Engineer @ CloudPilot UK**: enterprise RAG architecture (PostgreSQL/pgvector, self-hosted Llama via vLLM) + MCP-based governance workflows
+- 🛡️ Built **AURA Shield**: auditable prompt-injection detection gateway · 330-prompt benchmark · 210 passing tests
+- 🤖 Architected **AURA OS**: 10-agent orchestration platform · nationally shortlisted, Google AI Seekho Hackathon
+- 🎙️ Shipped a real-time voice AI agent (WebSocket + Deepgram + Groq) with sub-200ms demo latency
+- 💼 **AI Automation Engineer**: WhatsApp bots, voice agents, email automation & AI receptionists for international clients
+- 🔬 **AI Researcher & Leading Team Member @ Afrium**: EEG/BCI calibration-efficiency benchmarks (ranked 2nd, 97/100 in the research assessment)
+- ⚡ **BS Embedded Systems @ University of Lahore**: CGPA 3.93/4.0 · firmware/IoT paired with edge AI and cloud backends
+- 🤝 Core Team @ Techno Club UoL · Head of Digital Media @ Pakistan Health Parliament
 
-🧠 **LLM Engineer @ CloudPilot UK** — enterprise RAG architecture (PostgreSQL/pgvector, self-hosted Llama via vLLM) + MCP-based governance workflows
-🛡️ Built **AURA Shield** — auditable prompt-injection detection gateway · 330-prompt benchmark · 210 passing tests
-🤖 Architected **AURA OS** — 10-agent orchestration platform · nationally shortlisted, Google AI Seekho Hackathon
-🎙️ Shipped a real-time voice AI agent (WebSocket + Deepgram + Groq) with sub-200ms demo latency
-💼 **AI Automation Engineer** — WhatsApp bots, voice agents, email automation & AI receptionists for international clients (US · UK · Middle East)
-🔬 **AI Researcher & Leading Team Member @ Afrium** — EEG/BCI calibration-efficiency benchmarks (ranked 2nd, 97/100 in the research assessment)
-⚡ **BS Embedded Systems @ University of Lahore** — CGPA 3.93/4.0 · pairing firmware/IoT with edge AI and cloud backends
-🤝 Core Team @ Techno Club UoL · Head of Digital Media @ Pakistan Health Parliament
-
-> 💭 **"I think about AI systems the way I think about hardware — constraints, failure modes, and what happens when nobody's watching it run."**
+> 💭 **"I think about AI systems the way I think about hardware: constraints, failure modes, and what happens when nobody's watching it run."**
 
 📫 **Contact:** manaalpervaiz3@gmail.com
-
-</td>
-<td width="35%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Development Animation" width="180" height="180" />
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
@@ -177,22 +166,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manaal6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaal6&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manaal6&theme=github-compact" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## 🤝 Open To
 
-🔹 AI / LLM engineering roles and internships (RAG, agents, voice AI)
-🔹 Embedded + edge-AI projects where hardware meets LLMs
-🔹 AI research collaborations (EEG/BCI, LLM evaluation, healthcare AI)
-🔹 Custom AI automation for businesses still handling leads, calls, or support by hand
+- 🔹 AI / LLM engineering roles and internships (RAG, agents, voice AI)
+- 🔹 Embedded + edge-AI projects where hardware meets LLMs
+- 🔹 AI research collaborations (EEG/BCI, LLM evaluation, healthcare AI)
+- 🔹 Custom AI automation for businesses still handling leads, calls, or support by hand
 
 <p align="center">
   <picture>
