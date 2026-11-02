@@ -163,19 +163,34 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
-## 📊 GitHub Stats
+## 📈 Highlights
+
+<table align="center">
+<tr>
+<td align="center"><h2>330</h2>prompt benchmark<br>(AURA Shield)</td>
+<td align="center"><h2>210</h2>automated tests<br>passing</td>
+<td align="center"><h2>10</h2>agents orchestrated<br>(AURA OS)</td>
+<td align="center"><h2>&lt;200ms</h2>voice agent<br>demo latency</td>
+</tr>
+<tr>
+<td align="center"><h2>50+</h2>B2B emails/day<br>automated</td>
+<td align="center"><h2>~80%</h2>less manual<br>handling</td>
+<td align="center"><h2>15 × 25</h2>subjects × seeds<br>in EEG benchmark</td>
+<td align="center"><h2>3.93</h2>CGPA<br>(out of 4.0)</td>
+</tr>
+</table>
+
+## 🔭 What I'm Working On Now
+
+- 🧠 Enterprise RAG architecture and MCP governance workflows at CloudPilot UK
+- 🔬 EEG/BCI calibration-efficiency research and paper draft at Afrium
+- 🔩 STM32 projects and reusable embedded libraries
+- 🤖 Agentic AI workflows and multi-agent orchestration
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
-</p>
-
-<p align="center">
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## 🤝 Open To
 
